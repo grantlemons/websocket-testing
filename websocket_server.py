@@ -20,7 +20,7 @@ users = [
 
 async def send_and_recieve(websocket, path):
     await recieve( websocket, path )
-    await transmit( 'cool', websocket, path )
+    #await transmit( 'cool', websocket, path )
 
 async def recieve(websocket, path):
     try:
