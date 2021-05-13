@@ -38,7 +38,7 @@ async def trans_wait(message = ''):
 
 async def run():
     await trans_wait()
-    await recieve() 
+    #await recieve() 
     
 try:
     while True:
