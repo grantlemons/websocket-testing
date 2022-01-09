@@ -6,15 +6,15 @@ loop = asyncio.get_event_loop()
 users = [
     {
         'username': 'GLemons',
-        'password': 'tensei'
+        'password': 'yes'
     },
     {
-        'username': 'Solidyl',
-        'password': 'minecraft'
+        'username': 'Bob',
+        'password': 'no'
     },
     {
         'username': 'NotALime',
-        'password': 'bob'
+        'password': 'hi'
     }
 ]
 
